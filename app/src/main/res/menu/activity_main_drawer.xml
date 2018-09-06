@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+
+        <item
+            android:id="@+id/nav_profile"
+            android:icon="@mipmap/user"
+            android:title="Profile" />
+        <item
+            android:id="@+id/nav_part_Time"
+            android:icon="@mipmap/job"
+            android:title="Part Time" />
+        <item
+            android:id="@+id/nav_full_Time"
+            android:icon="@mipmap/job"
+            android:title="Full Time" />
+        <item
+            android:id="@+id/nav_coaching"
+            android:icon="@mipmap/teacher"
+            android:title="Coaching" />
+        <item
+            android:id="@+id/nav_hometutor"
+            android:icon="@mipmap/teacher"
+            android:title="Hometutor" />
+        <item
+            android:id="@+id/nav_cv"
+            android:icon="@mipmap/curriculum"
+            android:title="CV" />
+
+            <item
+                android:id="@+id/nav_books"
+                android:icon="@mipmap/book"
+                android:title="Books" />
+
+
+
+</menu>
